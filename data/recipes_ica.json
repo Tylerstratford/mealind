@@ -1,0 +1,1583 @@
+[
+  {
+    "id": "63778c47-54ff-4353-8dc2-86dfafcd3412",
+    "source": "ica",
+    "name": "Våfflor grundrecept",
+    "url": "https://www.ica.se/recept/vafflor-grundrecept-292887/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_238446/cf_259/vafflor_grundrecept.jpg",
+    "time": "45 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "smör eller margarin",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "vetemjöl",
+        "quantity": "5",
+        "unit": "dl"
+      },
+      {
+        "name": "1/2 tsk bakpulver",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "ägg",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "mjölk",
+        "quantity": "5",
+        "unit": "dl"
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Efterrätt,Middag,Brunch,Mellanmål"
+    ],
+    "description": "Laga våfflor på egen våffelsmet - det blir en lyxig fika! Gör din våffelsmet med ägg för klassiska våfflor. Se till att hetta upp våffeljärnet ordentligt och smörj med smör innan du gräddar våfflorna. Lägg sedan de gräddade våfflorna på galler så håller de sig frasiga."
+  },
+  {
+    "id": "579070c1-dc96-4e57-8915-80939fedf0ea",
+    "source": "ica",
+    "name": "Grundrecept frasvåfflor",
+    "url": "https://www.ica.se/recept/grundrecept-frasvafflor-723531/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_246211/cf_259/grundrecept_frasvafflor.jpg",
+    "time": "90 min",
+    "servings": "8-10 st",
+    "ingredients": [
+      {
+        "name": "smör (+ extra till gräddning)",
+        "quantity": "125",
+        "unit": "g"
+      },
+      {
+        "name": "1/2 dl mjölk",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "vetemjöl (240 g)",
+        "quantity": "4",
+        "unit": "dl"
+      },
+      {
+        "name": "ägg",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "bakpulver",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "krm"
+      },
+      {
+        "name": "ev 1 msk strösocker",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "kallt vatten",
+        "quantity": "2",
+        "unit": "dl"
+      }
+    ],
+    "tags": [
+      "Frukost,Brunch,Mellanmål"
+    ],
+    "description": "Perfekt frasiga våfflor som kan varieras i oändlighet till frukost, brunch, lunch eller mellanmål. Ja, man får faktiskt äta våfflor till middag också! Bästa våffelsmeten ger frasvåfflor som inte är flottiga och som släpper fint från våffeljärnet. Lägg dem på galler tills det är dags att äta dem så håller de sig varma. Servera med sylt och grädde, eller något annat gott."
+  },
+  {
+    "id": "793600c4-7135-4f55-9cc5-ea121eb457e8",
+    "source": "ica",
+    "name": "Chokladbollar",
+    "url": "https://www.ica.se/recept/chokladbollar-5058/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_240269/cf_259/chokladbollar.jpg",
+    "time": "60 min",
+    "servings": "15-20 st",
+    "ingredients": [
+      {
+        "name": "smör",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "strösocker",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "vaniljsocker",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "kakao",
+        "quantity": "3",
+        "unit": "msk"
+      },
+      {
+        "name": "havregryn",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "name": "kallt starkt kaffe",
+        "quantity": "3",
+        "unit": "msk"
+      },
+      {
+        "name": "pärlsocker kokos eller strössel",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Fika"
+    ],
+    "description": "Dessa chokladbollar får en god smak av att smöret först får puttra. Rulla chokladbollarna i kokos eller pärlsocker, det som du själv föredrar."
+  },
+  {
+    "id": "21a46a13-8f12-4b37-ae75-575fd1b90404",
+    "source": "ica",
+    "name": "Busenkel broccolisoppa",
+    "url": "https://www.ica.se/recept/busenkel-broccolisoppa-712859/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_223438/cf_259/busenkel_broccolisoppa.jpg",
+    "time": "30 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "lök",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "-  4 potatisar (ca 300 g)",
+        "quantity": "3",
+        "unit": ""
+      },
+      {
+        "name": "broccoli",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "name": "grönsaksbuljong (vatten och grönsaksfond eller tärningar)",
+        "quantity": "9",
+        "unit": "dl"
+      },
+      {
+        "name": "1/2 dl matlagningsgrädde",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "peppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "bröd",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "kräftstjärtar eller räkor",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Förrätt,Huvudrätt,Middag"
+    ],
+    "description": "En riktigt smarrig soppa av broccoli som dessutom är lätt som en plätt att laga till - det här är verkligen en av svenska folkets favoritsoppor! Servera den varma broccolisoppan tillsammans med en brödbit och njut!"
+  },
+  {
+    "id": "11eb8b35-5690-4ce7-b803-151bf60d7a9f",
+    "source": "ica",
+    "name": "Grillad lax i folie",
+    "url": "https://www.ica.se/recept/grillad-lax-i-folie-720557/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_138072/cf_259/grillad_lax_i_folie.jpg",
+    "time": "30 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "laxfilé (à ca 150 g)",
+        "quantity": "4",
+        "unit": "portionsbitar"
+      },
+      {
+        "name": "bakplåtspapper",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "folieark",
+        "quantity": "4",
+        "unit": "dubbla"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "svartpeppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "smör",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "hackade örter t ex dill, persilja, gräslök eller körvel",
+        "quantity": "4",
+        "unit": "msk"
+      }
+    ],
+    "tags": [],
+    "description": "Grillad lax i paket som trängs med härliga kryddor blir verkligen en smaksensation i sig. Lägg till en god sås, härliga tillbehör och en solig eftermiddag och du har garanterat en sommardag att minnas tillbaka till."
+  },
+  {
+    "id": "29184c9b-38f9-402d-8eb1-1cc0576d398d",
+    "source": "ica",
+    "name": "Gratinerade vegofärsnachos",
+    "url": "https://www.ica.se/recept/gratinerade-vegofarsnachos-719243/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_121955/cf_259/gratinerade_vegofarsnachos.jpg",
+    "time": "45 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "vatten",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "socker",
+        "quantity": "1/2",
+        "unit": "dl"
+      },
+      {
+        "name": "ättika",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "zucchini",
+        "quantity": "1/2",
+        "unit": ""
+      },
+      {
+        "name": "vegetarisk färs (à 300 g)",
+        "quantity": "1",
+        "unit": "paket"
+      },
+      {
+        "name": "olivolja",
+        "quantity": "1/2",
+        "unit": "msk"
+      },
+      {
+        "name": "soya crème fraiche",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "peppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "cocktailtomater",
+        "quantity": "8",
+        "unit": ""
+      },
+      {
+        "name": "paprika",
+        "quantity": "1",
+        "unit": "röd"
+      },
+      {
+        "name": "jalapeños",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "name": "nachochips",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "name": "rucola",
+        "quantity": "25",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Härliga gratinerade nachos med vego-färs som passar såväl vegetarianer som den som vill äta lite mindre kött. Rätten får här extra sting då den serveras med picklad zucchini och jalapeños."
+  },
+  {
+    "id": "d6f7c823-d78c-4c80-a9fa-d055306cd34d",
+    "source": "ica",
+    "name": "Halloumigryta med ris",
+    "url": "https://www.ica.se/recept/halloumigryta-med-ris-725482/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/kpgs5ua6m9ldpagrykqg.jpg",
+    "time": "45 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "ris eller annat gryn",
+        "quantity": "4",
+        "unit": "port"
+      },
+      {
+        "name": "(à ca 300 g)",
+        "quantity": "1/2",
+        "unit": "blomkålshuvud"
+      },
+      {
+        "name": "halloumi eller grillost",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "name": "olja",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "vitlöksklyfta",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "curry",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "name": "kokosmjölk",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "name": "krossade tomater (à 390 g)",
+        "quantity": "1",
+        "unit": "förp"
+      },
+      {
+        "name": "grönsaksbuljongtärning",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "chilipeppar",
+        "quantity": "2",
+        "unit": "krm"
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Stek halloumin i tärningar tillsammans med blomkål. Smaksätt med curry och häll på kokosmjölk och krossade tomater. Salta och peppra. Servera med ris. Krämigt, tomatigt och gott! Kolla in tipset och servera gärna med rostad lök."
+  },
+  {
+    "id": "125f18f2-f798-4048-87e0-d7081ca3f1d8",
+    "source": "ica",
+    "name": "Scones",
+    "url": "https://www.ica.se/recept/scones-690203/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_229528/cf_259/scones.jpg",
+    "time": "30 min",
+    "servings": "8 scones",
+    "ingredients": [
+      {
+        "name": "vetemjöl",
+        "quantity": "4",
+        "unit": "dl"
+      },
+      {
+        "name": "bakpulver",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "name": "salt",
+        "quantity": "2",
+        "unit": "krm"
+      },
+      {
+        "name": "smör eller margarin (gärna rumstempererat)",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "name": "mjölk",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "ost eller färskost",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "marmelad (gärna jordgubbsmarmelad)",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Frukost,Brunch,Mellanmål"
+    ],
+    "description": "På söndagsbrunchen vill man ha något nybakat och delikat och det passar därför utmärkt att baka scones för detta tillfälle. Sconesen är godast om du serverar dem med söt marmelad eller ost."
+  },
+  {
+    "id": "09c7e4b8-3145-4289-982f-035daa2483ff",
+    "source": "ica",
+    "name": "Klassisk lasagne",
+    "url": "https://www.ica.se/recept/klassisk-lasagne-679675/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_223426/cf_259/klassisk_lasagne.jpg",
+    "time": "90 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "lökar",
+        "quantity": "2",
+        "unit": "gula"
+      },
+      {
+        "name": "vitlöksklyftor",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "nötfärs eller hushållsfärs (ärt- och nötfärs)",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "name": "olja",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "tomatpuré",
+        "quantity": "4",
+        "unit": "msk"
+      },
+      {
+        "name": "torkad timjan",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "torkad rosmarin",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "krossade tomater (à 390 g)",
+        "quantity": "1",
+        "unit": "förp"
+      },
+      {
+        "name": "köttbuljongtärning",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "peppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "smör (6 msk motsvarar ca 90 g)",
+        "quantity": "6",
+        "unit": "msk"
+      },
+      {
+        "name": "vetemjöl",
+        "quantity": "6",
+        "unit": "msk"
+      },
+      {
+        "name": "mjölk",
+        "quantity": "10",
+        "unit": "dl"
+      },
+      {
+        "name": "riven parmesan",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "lasagneplattor",
+        "quantity": "9",
+        "unit": "torkade"
+      },
+      {
+        "name": "sallad",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Klassisk lasagne är väl en rätt man aldrig tröttnar på? Med det här receptet blir din lasagne perfekt med en mjuk och härlig konsistens och dessutom har den en ljuv och exemplarisk smak. Parmesanosten är pricken över i!"
+  },
+  {
+    "id": "c994d40f-f026-4d83-8414-aeab6befbd45",
+    "source": "ica",
+    "name": "Bakad potatis med oströra, bacon och jalapeño",
+    "url": "https://www.ica.se/recept/bakad-potatis-med-ostrora-bacon-och-jalapeno-730250/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/d6uwmwepd4jzt8sjiadl.jpg",
+    "time": "90 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "bakpotatisar",
+        "quantity": "4",
+        "unit": ""
+      },
+      {
+        "name": "bacon (à 140 g)",
+        "quantity": "2",
+        "unit": "förp"
+      },
+      {
+        "name": "crème fraiche",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "name": "riven lagrad ost (+ ev extra till dekoration)",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "svartpeppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "färsk eller inlagd jalapeño",
+        "quantity": "1",
+        "unit": "skivad"
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Bakad potatis med fyllning är en enkel och god vardagsmiddag! Här fyller vi de varma knölarna med krämig oströra på crème fraiche och lagrad ost, knaperstekt bacon och het jalapeño."
+  },
+  {
+    "id": "561dbd62-b5e8-4235-b3de-257926a1e805",
+    "source": "ica",
+    "name": "Pannkakor - grundsmet",
+    "url": "https://www.ica.se/recept/pannkakor-grundsmet-2083/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_221148/cf_259/pannkakor_-_grundsmet.jpg",
+    "time": "35 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "1/2 dl vetemjöl",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "mjölk",
+        "quantity": "6",
+        "unit": "dl"
+      },
+      {
+        "name": "ägg",
+        "quantity": "3",
+        "unit": ""
+      },
+      {
+        "name": "smör (till stekning)",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "sylt, bär eller frukt till servering",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag,Brunch"
+    ],
+    "description": "Gör traditionella tunna pannkakor genom att blanda mjöl, mjölk och ägg och lite salt till en jämn smet. Stek smeten till tunna och smarriga pannkakor och servera med en söt sylt eller salta tillbehör."
+  },
+  {
+    "id": "ccfdab1a-1f67-404c-a551-83ed147a3c51",
+    "source": "ica",
+    "name": "Fattiga riddare i våffeljärn",
+    "url": "https://www.ica.se/recept/fattiga-riddare-i-vaffeljarn-714018/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/vuocck5mguqrqi5nl0ld.jpg",
+    "time": "30 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "ägg",
+        "quantity": "3",
+        "unit": ""
+      },
+      {
+        "name": "vispgrädde",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "strösocker",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "salt",
+        "quantity": "2",
+        "unit": "krm"
+      },
+      {
+        "name": "vaniljsocker",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "name": "vitt formbröd",
+        "quantity": "4",
+        "unit": "skivor"
+      },
+      {
+        "name": "smör (till gräddning)",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "sylt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "vispad grädde",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Brunch,Mellanmål"
+    ],
+    "description": "Visste du att du kan grädda fattiga riddare i våffeljärnet? Ett smarrigt och klassiskt recept som passar perfekt som mellanmål, dessert eller varför inte en lyxig helgfrukost. Servera med lättvispad grädde och din favoritsylt."
+  },
+  {
+    "id": "fb25d7e9-01c7-4afc-9b05-808ce77867fe",
+    "source": "ica",
+    "name": "Persiljestekt kyckling med currysås och äpple- och fänkålssallad",
+    "url": "https://www.ica.se/recept/persiljestekt-kyckling-med-currysas-och-apple-och-fankalssallad-730258/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/npld3yqxso1ije4zwvjt.jpg",
+    "time": "45 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "ris",
+        "quantity": "4",
+        "unit": "port"
+      },
+      {
+        "name": "kycklingfiléer",
+        "quantity": "4",
+        "unit": ""
+      },
+      {
+        "name": "olja",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "peppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "hackad persilja",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "vitlöksklyfta",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "schalottenlökar",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "rött äpple (halva används i såsen halva i salladen)",
+        "quantity": "1",
+        "unit": "litet"
+      },
+      {
+        "name": "olja",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "curry",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "name": "vitlöksklyfta",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "1/2 dl vatten",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "kycklingbuljongtärning",
+        "quantity": "1/2",
+        "unit": ""
+      },
+      {
+        "name": "1/2 dl matlagningsgrädde",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "ev majsstärkelse",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "rött äpple (se ovan)",
+        "quantity": "1/2",
+        "unit": "litet"
+      },
+      {
+        "name": "fänkål",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "name": "olivolja",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "vitvinsvinäger",
+        "quantity": "2",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Kycklingfilé med curry och ris, finns det ens en tryggare maträtt? Servera med en fräsch äpple- och fänkålssallad till och du är hemma. Den här currysåsen har du stekt schalottenlök och äpple i, vilket gör den extra god."
+  },
+  {
+    "id": "7166017c-4553-4529-833d-f94195399239",
+    "source": "ica",
+    "name": "Svamprisotto med vitlöksstekt broccoli",
+    "url": "https://www.ica.se/recept/svamprisotto-med-vitloksstekt-broccoli-727264/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_222910/cf_259/svamprisotto_med_vitloksstekt_broccoli_.jpg",
+    "time": "45 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "lök",
+        "quantity": "1",
+        "unit": "gul"
+      },
+      {
+        "name": "vitlöksklyfta",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "vatten",
+        "quantity": "1",
+        "unit": "l"
+      },
+      {
+        "name": "svamp-, grönsaks- eller kycklingbuljongtärningar",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "olivolja",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "risottoris (t ex arborioris)",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "name": "1/2 dl vitt matlagningsvin",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "champinjoner",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "name": "smör",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "lagrad  ost (gärna gran gustoso)",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "peppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "färsk persilja (à 20 g)",
+        "quantity": "1/2",
+        "unit": "förp"
+      },
+      {
+        "name": "broccoli",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "name": "olivolja",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "vitlöksklyfta",
+        "quantity": "1",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "För att göra en lyckad risotto behöver det dels röras om med tålamod, men även att den äts ihop med passande tillbehör! Det krämiga riset smaksätts med bland annat svamp, parmesan och vitlök, och till det äts även vitlöksstekt broccoli. Hur gott som helst!"
+  },
+  {
+    "id": "ce6ad6b7-5e83-4871-94a6-a87df2c7e554",
+    "source": "ica",
+    "name": "Amerikanska pannkakor",
+    "url": "https://www.ica.se/recept/amerikanska-pannkakor-713437/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_239138/cf_259/amerikanska_pannkakor.jpg",
+    "time": "30 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "1/2 dl vetemjöl",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "bakpulver",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "strösocker",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "krm"
+      },
+      {
+        "name": "1/2 dl mjölk (3%)",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "smält smör",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "ägg",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "smör till stekning",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "florsocker att pudra över",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "lönnsirap",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "blåbär",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Frukost,Brunch"
+    ],
+    "description": "Amerikanska pannkakor är tjocka plättar som tillagas på mindre än en halvtimme. Pudra pannkakorna med florsocker och toppa lönnsirap och blåbär. Kolla in vår film på hur du steker fluffiga amerikanska pannkakor ."
+  },
+  {
+    "id": "bd97bf0b-193a-490a-acb7-88dc9392eb45",
+    "source": "ica",
+    "name": "Kladdig kladdkaka",
+    "url": "https://www.ica.se/recept/kladdig-kladdkaka-722982/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_221660/cf_259/kladdig_kladdkaka.jpg",
+    "time": "45 min",
+    "servings": "ca 8 bitar",
+    "ingredients": [
+      {
+        "name": "smör till formen",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "ströbröd till formen",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "smör",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "ägg",
+        "quantity": "2",
+        "unit": "st"
+      },
+      {
+        "name": "1/2 dl strösocker",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "kakao",
+        "quantity": "3",
+        "unit": "msk"
+      },
+      {
+        "name": "vaniljsocker",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "name": "1/2 dl vetemjöl",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "krm"
+      },
+      {
+        "name": "florsocker till garnering",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "vispgrädde",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "färska bär",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Efterrätt,Fika"
+    ],
+    "description": "Kladdig kladdkaka är ju det godaste som finns. Med detta recept på kladdkaka får kakan perfekt krispig yta samtidigt som den är kladdig i mitten. Vill du ha en extra kladdig kladdkaka är det bara att justera tiden i ugnen. Servera med vispgrädde och du har fixat en riktig drömfika!"
+  },
+  {
+    "id": "87420aa4-d4f3-4cb3-b4e2-4644783fcc03",
+    "source": "ica",
+    "name": "Pasta med makrill i tomatsås",
+    "url": "https://www.ica.se/recept/pasta-med-makrill-i-tomatsas-730241/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_251735/cf_259/pasta_med_makrill_i_tomatsas.jpg",
+    "time": "30 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "vitlöksklyftor",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "olivolja",
+        "quantity": "3",
+        "unit": "msk"
+      },
+      {
+        "name": "chiliflakes",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "finrivet citronskal",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "hackad kapris",
+        "quantity": "3",
+        "unit": "msk"
+      },
+      {
+        "name": "makrillfilé i tomatsås (à 125 g)",
+        "quantity": "2",
+        "unit": "förp"
+      },
+      {
+        "name": "spaghetti",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "name": "finhackad persilja",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "svartpeppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "finriven parmesan eller annan lagrad hårdost",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "citronklyftor",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Har du makrill på burk i skafferiet? Släng ihop denna enkla pasta med vitlök, chili, kapris och citron som blandas med makrill i tomatsås och toppas med riven parmesan!"
+  },
+  {
+    "id": "8e46e9a8-b15f-4a44-abf9-fa340a84f8b8",
+    "source": "ica",
+    "name": "Bagel med lax, pepparrotskräm och gurka",
+    "url": "https://www.ica.se/recept/bagel-med-lax-pepparrotskram-och-gurka-730245/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_251740/cf_259/bagel_med_lax__pepparrotskram_och_gurka.jpg",
+    "time": "30 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "cream cheese",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "name": "finriven pepparrot",
+        "quantity": "3",
+        "unit": "msk"
+      },
+      {
+        "name": "svartpeppar",
+        "quantity": "1",
+        "unit": "krm"
+      },
+      {
+        "name": "gurka",
+        "quantity": "1/2",
+        "unit": ""
+      },
+      {
+        "name": "färskpressad citronjuice",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "hackad färsk eller fryst  dill",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "bagels",
+        "quantity": "4",
+        "unit": ""
+      },
+      {
+        "name": "kallrökt lax",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "name": "ev färsk dill (till dekoration)",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Frukost,Brunch,Mellanmål"
+    ],
+    "description": "En saftig, rostad bagel med fyllning av kallrökt lax, färskostkräm med pepparrot och tunt hyvlad gurka med smak av citron och dill är en perfekt frukost- eller brunchrätt, fräsch lunch eller lättare middag!"
+  },
+  {
+    "id": "63594c95-3354-4ba8-8f5d-7267b086a65b",
+    "source": "ica",
+    "name": "Tonfisksallad med kikärtor och dijonnaise",
+    "url": "https://www.ica.se/recept/tonfisksallad-med-kikartor-och-dijonnaise-730243/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_251738/cf_259/tonfisksallad_med_kikartor_och_dijonnaise.jpg",
+    "time": "30 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "kokta kikärtor (à 380 g)",
+        "quantity": "1",
+        "unit": "förp"
+      },
+      {
+        "name": "olja",
+        "quantity": "3",
+        "unit": "msk"
+      },
+      {
+        "name": "chilipulver",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "salt",
+        "quantity": "2",
+        "unit": "krm"
+      },
+      {
+        "name": "majonnäs",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "dijonsenap",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "finrivet citronskal",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "färskpressad citronjuice",
+        "quantity": "3",
+        "unit": "msk"
+      },
+      {
+        "name": "svartpeppar",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "(à ca 300 g)",
+        "quantity": "1",
+        "unit": "gurka"
+      },
+      {
+        "name": "endive- eller hjärtsallad",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "tonfisk i olja (à ca 170 g)",
+        "quantity": "2",
+        "unit": "förp"
+      },
+      {
+        "name": "finskuren gräslök",
+        "quantity": "1/2",
+        "unit": "dl"
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Servera krispiga salladsblad tillsammans med chilistekta kikärtor, gurka och tonfisk på burk och ringla över en härlig dijonnaise – en enkel dressing på majonnäs, dijonsenap och citron."
+  },
+  {
+    "id": "23c7c4c7-f53e-41a5-9448-e40cec1d55f9",
+    "source": "ica",
+    "name": "Krämig citronrisoni",
+    "url": "https://www.ica.se/recept/kramig-citronrisoni-730288/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/v5ngaizbojusv6jiatao.jpg",
+    "time": "30 min",
+    "servings": "6",
+    "ingredients": [
+      {
+        "name": "schalottenlök",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "smör",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "risonipasta",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "name": "konc kyckling- eller grönsaksfond",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "vatten",
+        "quantity": "8",
+        "unit": "dl"
+      },
+      {
+        "name": "vispgrädde",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "finrivet citronskal",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "riven parmesan",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "svartpeppar",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [],
+    "description": "Enkelt, krämigt och tryggt är tre ord som beskriver denna härliga rätt! Den tillagas som en risotto men med pastasorten risoni där rivet citronskal och parmesanost sätter smaken."
+  },
+  {
+    "id": "d9d0f5e1-7bb9-4365-8548-b8eb6de78e48",
+    "source": "ica",
+    "name": "Blåmusslor med vita bönor, vitlök och rosmarin",
+    "url": "https://www.ica.se/recept/blamusslor-med-vita-bonor-vitlok-och-rosmarin-730242/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_251737/cf_259/blamusslor_med_vita_bonor__vitlok_och_rosmarin.jpg",
+    "time": "60 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "färska blåmusslor",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "name": "schalottenlökar",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "vitlöksklyftor",
+        "quantity": "3",
+        "unit": ""
+      },
+      {
+        "name": "(à  ca 300 g)",
+        "quantity": "1",
+        "unit": "fänkål"
+      },
+      {
+        "name": "kokta stora vita  bönor (à 380 g)",
+        "quantity": "1",
+        "unit": "förp"
+      },
+      {
+        "name": "smör",
+        "quantity": "4",
+        "unit": "msk"
+      },
+      {
+        "name": "hackad färsk eller torkad rosmarin (2 msk färsk motsvarar 1 tsk torkad)",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "torrt vitt vin",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "name": "konc grönsaksfond",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "vatten",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "svartpeppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "hackad färsk eller fryst persilja",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "bröd",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Njut av en enkel och snabb rätt med den smakrika kombinationen av färska blåmusslor och vita bönor i en värmande buljong med vitt vin, vitlök och rosmarin. Servera gärna med en bit bröd att doppa i buljongen."
+  },
+  {
+    "id": "bb4e91fc-0813-4f2f-816c-aa05ba6e8990",
+    "source": "ica",
+    "name": "Potatisbullar med ”dirty corn elotes”",
+    "url": "https://www.ica.se/recept/potatisbullar-med-dirty-corn-elotes-730260/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/ylhpyoempfpkxqu3w4ha.jpg",
+    "time": "45 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "majskolvar",
+        "quantity": "4",
+        "unit": "färska"
+      },
+      {
+        "name": "olja",
+        "quantity": "1/2",
+        "unit": "msk"
+      },
+      {
+        "name": "potatisbullar",
+        "quantity": "4",
+        "unit": "portioner"
+      },
+      {
+        "name": "rödlök",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "inlagd jalapeño",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "majonnäs",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "lag från jalapeñoburken",
+        "quantity": "2",
+        "unit": "tsk"
+      },
+      {
+        "name": "vitlöksklyfta",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "peppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "riven parmesan",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "koriander",
+        "quantity": "1",
+        "unit": "kruka"
+      },
+      {
+        "name": "mini plommontomater",
+        "quantity": "250",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "Huvudrätt,Middag"
+    ],
+    "description": "Lyxa till vardagsräddaren potatisbullar genom att toppa dem med rostad majs, jalapeñomajonnäs, parmesan, koriander och tomat. Väldigt gott – och dessutom en rätt som är enkel att anpassa efter olika familjemedlemmars smakpreferenser."
+  },
+  {
+    "id": "69577133-6dcf-42ea-8ccd-7c0c2774483a",
+    "source": "ica",
+    "name": "Toscakaka",
+    "url": "https://www.ica.se/recept/toscakaka-716486/",
+    "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_77225/cf_259/toscakaka.jpg",
+    "time": "90 min",
+    "servings": "10 bitar",
+    "ingredients": [
+      {
+        "name": "smör eller margarin",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "ägg",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "1/2 dl strösocker",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "vetemjöl (2 dl motsvarar 120 g)",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "bakpulver",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "mjölk",
+        "quantity": "1/2",
+        "unit": "dl"
+      },
+      {
+        "name": "smör eller margarin",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "strösocker",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "vetemjöl",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "mjölk",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "skållad strimlad mandel",
+        "quantity": "100",
+        "unit": "g"
+      }
+    ],
+    "tags": [
+      "Efterrätt,Fika"
+    ],
+    "description": "Toscakaka är en god och enkel kaka att baka. Som en sockerkaka toppad med mandelglasyr. Grädda kakan i ugnen och rör ihop glasyren av smör, socker, mjöl, mjölk och mandeln i en kastrull under tiden. Toscakakan är en given succé på alla kalas – lika oemotståndlig som lätt att baka."
+  }
+]

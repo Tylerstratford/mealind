@@ -1,0 +1,405 @@
+[
+  {
+    "id": "1ea19c87-b7f4-4fc5-838c-072482f1c2aa",
+    "source": "coop",
+    "name": "Parfait",
+    "url": "https://www.coop.se/recept/parfait/",
+    "image": "//res.cloudinary.com/coopsverige/image/upload/h_1200,w_1200/v1470726063/156779.jpg",
+    "time": "0h 0 min",
+    "servings": "6",
+    "ingredients": [
+      {
+        "name": "vispgrädde",
+        "quantity": "3",
+        "unit": "dl"
+      },
+      {
+        "name": "äggulor",
+        "quantity": "3",
+        "unit": ""
+      },
+      {
+        "name": "florsocker eller strösocker",
+        "quantity": "1/2",
+        "unit": "dl"
+      },
+      {
+        "name": "vaniljsocker",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "1/2 dl blåbärssylt, lingonsylt eller hjortronsylt",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "blåbär, lingon eller hjortron",
+        "quantity": "2",
+        "unit": "msk"
+      }
+    ],
+    "tags": [
+      "Buffé"
+    ],
+    "description": "Parfait, en underbar efterrätt! Bara att vispa ihop, smaksätta och ställa in i frysen – glassmaskin behövs inte. Det är bara en sak som är svår: att välja smak!"
+  },
+  {
+    "id": "dc3d0f05-24b7-4d00-8a0b-731926af71e9",
+    "source": "coop",
+    "name": "Köttfärslimpa",
+    "url": "https://www.coop.se/recept/kottfarslimpa/",
+    "image": "//res.cloudinary.com/coopsverige/image/upload/h_1200,w_1200/v1676451594/cloud/273905.jpg",
+    "time": "0h 0 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "mjölk",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "ströbröd",
+        "quantity": "1/2",
+        "unit": "dl"
+      },
+      {
+        "name": "nötfärs",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "name": "lök, finhackad",
+        "quantity": "1",
+        "unit": "gul"
+      },
+      {
+        "name": "ägg",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "grovmalen svartpeppar",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "smör",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "vetemjöl",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "vatten",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "grädde",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "köttbuljongtärning",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "kinesisk soja",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "salt och svartpeppar",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "name": "potatis",
+        "quantity": "800",
+        "unit": "g"
+      },
+      {
+        "name": "frysta lingon",
+        "quantity": "225",
+        "unit": "g"
+      },
+      {
+        "name": "strösocker",
+        "quantity": "1",
+        "unit": "dl"
+      }
+    ],
+    "tags": [
+      "Huvudrätt"
+    ],
+    "description": "Köttfärslimpa på nötfärs med kokt potatis, gräddsås och rårörda lingon. Klassisk husmanskost som enkelt tillagas i ugn, perfekt att frysa in i portionsbitar om det blir över."
+  },
+  {
+    "id": "79f6f273-38f0-4484-81e9-e19dfb64c31d",
+    "source": "coop",
+    "name": "Kycklingburgare",
+    "url": "https://www.coop.se/recept/kycklingburgare/",
+    "image": "//res.cloudinary.com/coopsverige/image/upload/h_1200,w_1200/v1617096484/426342.jpg",
+    "time": "0h 0 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "1/2 dl majonnäs",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "mango chutney",
+        "quantity": "1/2",
+        "unit": "dl"
+      },
+      {
+        "name": "curry",
+        "quantity": "1",
+        "unit": "tsk"
+      },
+      {
+        "name": "tomater",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "kycklingbröstfiléer",
+        "quantity": "8",
+        "unit": "tunnskivade"
+      },
+      {
+        "name": "grovmald svartpeppar",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "salt",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "olja",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "hamburgerbröd",
+        "quantity": "4",
+        "unit": ""
+      },
+      {
+        "name": "sallad",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "name": "rödlök, skivad",
+        "quantity": "1/2",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Huvudrätt"
+    ],
+    "description": "Barnsligt enkla och goda kycklingburgare med sallad tomat och dressing på majonnäs, mango chutney och curry. En ny favorit!"
+  },
+  {
+    "id": "af79a8ab-fa1c-41ae-9aca-41de1fe8a678",
+    "source": "coop",
+    "name": "Äggröra",
+    "url": "https://www.coop.se/recept/aggrora/",
+    "image": "//res.cloudinary.com/coopsverige/image/upload/h_1200,w_1200/v1601545720/409318.jpg",
+    "time": "0h 0 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "ägg",
+        "quantity": "8",
+        "unit": ""
+      },
+      {
+        "name": "grädde",
+        "quantity": "4",
+        "unit": "msk"
+      },
+      {
+        "name": "salt",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "grovmald svartpeppar",
+        "quantity": "1",
+        "unit": "krm"
+      },
+      {
+        "name": "smör",
+        "quantity": "2",
+        "unit": "msk"
+      }
+    ],
+    "tags": [
+      "Brunch"
+    ],
+    "description": "Krämig äggröra med grädde är enkelt att laga och passar perfekt till frukost och brunch. Ha inte för hög värme och rör försiktigt om äggen i stekpannan för extra krämig äggröra. Grädden kan bytas ut mot mjölk."
+  },
+  {
+    "id": "fc6a1527-f1c6-4310-abb3-70a46c47cbd1",
+    "source": "coop",
+    "name": "Fetaoströra",
+    "url": "https://www.coop.se/recept/fetaostrora/",
+    "image": "//res.cloudinary.com/coopsverige/image/upload/h_1200,w_1200/v1650546552/cloud/251176.jpg",
+    "time": "0h 0 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "fetaost",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "name": "crème fraiche",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "hackad mynta",
+        "quantity": "1/2",
+        "unit": "dl"
+      },
+      {
+        "name": "vitlöksklyfta, finriven",
+        "quantity": "1/2",
+        "unit": ""
+      },
+      {
+        "name": "salt och svartpeppar",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Buffé"
+    ],
+    "description": "Supergod röra på fetaost, créme fraiche, mynta och vitlök. Passar utmärkt att servera till grillade grönsaker, eller till kött och kyckling."
+  },
+  {
+    "id": "a94090db-617a-4e55-bdac-62edd2b0f36a",
+    "source": "coop",
+    "name": "Raita",
+    "url": "https://www.coop.se/recept/raita/",
+    "image": "//res.cloudinary.com/coopsverige/image/upload/h_1200,w_1200/v1615471855/424596.jpg",
+    "time": "0h 0 min",
+    "servings": "4",
+    "ingredients": [
+      {
+        "name": "yoghurt 10%",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "gurka, fintärnad",
+        "quantity": "0,33",
+        "unit": ""
+      },
+      {
+        "name": "rädisor, skivade",
+        "quantity": "5",
+        "unit": ""
+      },
+      {
+        "name": "flytande honung",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "chiliflakes",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "spiskummin",
+        "quantity": "1/2",
+        "unit": "tsk"
+      },
+      {
+        "name": "salt",
+        "quantity": "1/2",
+        "unit": "tsk"
+      }
+    ],
+    "tags": [],
+    "description": "Raita är en svalkande indisk yoghurtsås. Här med rädisor, gurka, chiliglakes och spiskummin. Galet god att servera till grillad kyckling."
+  },
+  {
+    "id": "aced3c40-056d-4496-9be7-92f9059191bf",
+    "source": "coop",
+    "name": "Potatissallad",
+    "url": "https://www.coop.se/recept/potatissallad/",
+    "image": "//res.cloudinary.com/coopsverige/image/upload/h_1200,w_1200/v1698138411/cloud/294377.jpg",
+    "time": "0h 0 min",
+    "servings": "5",
+    "ingredients": [
+      {
+        "name": "potatis, små fina",
+        "quantity": "900",
+        "unit": "g"
+      },
+      {
+        "name": "salladslökar, skivade",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "name": "dill, hackad",
+        "quantity": "1",
+        "unit": "kruka"
+      },
+      {
+        "name": "majonnäs",
+        "quantity": "2",
+        "unit": "dl"
+      },
+      {
+        "name": "crème fraiche",
+        "quantity": "1",
+        "unit": "dl"
+      },
+      {
+        "name": "dijonsenap",
+        "quantity": "4",
+        "unit": "msk"
+      },
+      {
+        "name": "kapris",
+        "quantity": "2",
+        "unit": "msk"
+      },
+      {
+        "name": "riven färsk pepparrot",
+        "quantity": "1",
+        "unit": "msk"
+      },
+      {
+        "name": "salt",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "tags": [
+      "Huvudrätt"
+    ],
+    "description": "Krämig potatissallad med majonnäs, crème fraiche, dijon, dill, pepparrot och kapris. Så gott! Recept av Stefan Ekengren."
+  }
+]
